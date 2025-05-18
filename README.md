@@ -99,4 +99,12 @@ To run this project, you'll need to:
 - [Android Developer Documentation](https://developer.android.com/docs)
 - [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose/documentation)
 - [Kotlin Coroutines Guide](https://kotlinlang.org/docs/coroutines-guide.html)
-- [Hilt Documentation](https://developer.android.com/training/dependency-injection/hilt-android) 
+- [Hilt Documentation](https://developer.android.com/training/dependency-injection/hilt-android)
+
+## Movie List screen
+
+![Screenshot_20250518_182800](https://github.com/user-attachments/assets/35c340d0-3d15-4c60-aac6-9187e0ed40d6) 
+
+## Moview Details Screen
+
+![Screenshot_20250518_182825](https://github.com/user-attachments/assets/c3de3679-c1e2-45b7-9286-2a3b0306560c)
